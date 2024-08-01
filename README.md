@@ -23,4 +23,6 @@
 
 # add to git
 git add .
+git commit -m "readme file updated"
+git push origin main
 
