@@ -26,3 +26,6 @@
 2. git commit -m "readme file updated"
 3. git push origin main
 
+
+# install requirements.txt
+pip install -r requirements.txt
